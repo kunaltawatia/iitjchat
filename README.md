@@ -20,10 +20,10 @@ npm install
 npm start
 ```
 
-> Server start listening on http://localhost:3000
+> Server now starts listening on http://localhost:3000
 
 * ### Install dependencies for frontend
-> Change directory to `client`
+> Directory now is to be changed to `client`
 ```
 cd client
 npm install
